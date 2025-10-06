@@ -1,0 +1,65 @@
+[
+    {
+        "EmployeeID": 101,
+        "Name": "Alice Johnson",
+        "Department": "Engineering",
+        "Salary": 72000,
+        "JoiningDate": "2018-06-15",
+        "PerformanceScore": 88,
+        "Remote": false
+    },
+    {
+        "EmployeeID": 102,
+        "Name": "Bob Smith",
+        "Department": "Marketing",
+        "Salary": 54000,
+        "JoiningDate": "2020-03-01",
+        "PerformanceScore": 73,
+        "Remote": true
+    },
+    {
+        "EmployeeID": 103,
+        "Name": "Charlie Brown",
+        "Department": "Engineering",
+        "Salary": 81000,
+        "JoiningDate": "2016-09-20",
+        "PerformanceScore": 91,
+        "Remote": false
+    },
+    {
+        "EmployeeID": 104,
+        "Name": "Diana Lee",
+        "Department": "HR",
+        "Salary": 59000,
+        "JoiningDate": "2019-02-10",
+        "PerformanceScore": 85,
+        "Remote": true
+    },
+    {
+        "EmployeeID": 105,
+        "Name": "Ethan Davis",
+        "Department": "Finance",
+        "Salary": 67000,
+        "JoiningDate": "2021-08-05",
+        "PerformanceScore": 77,
+        "Remote": false
+    },
+    {
+        "EmployeeID": 106,
+        "Name": "Fiona Clark",
+        "Department": "Marketing",
+        "Salary": 61000,
+        "JoiningDate": "2017-11-25",
+        "PerformanceScore": 80,
+        "Remote": true
+    },
+    {
+        "EmployeeID": 107,
+        "Name": "George Wilson",
+        "Department": "Engineering",
+        "Salary": 94000,
+        "JoiningDate": "2015-04-30",
+        "PerformanceScore": 95,
+        "Remote": false
+    }
+]
